@@ -25,7 +25,7 @@ var c = canvas.getContext('2d');
 //c.stroke();
 
 
-colorArray = ["red", "blue", "green", "yellow", "gray"];
+colorArray = ["black", "blue", "gray", "lightblue"];
 
 
 function Circle(x,y, dx, dy, radius) {
